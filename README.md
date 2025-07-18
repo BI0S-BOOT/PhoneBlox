@@ -1,4 +1,4 @@
-[logo]: https://github.com/BI0S-BOOT/PhoneBlox/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://[github.com/BI0S-BOOT/PhoneBlox/raw/master/src/common/images/icon48.png "Logo Title Text 2"](https://github.com/BI0S-BOOT/PhoneBlox/blob/main/Phoneblox%20logo.png)
 A Concept Of A Fully Modular Phone Brought Back To Life In A Open Source (maybe) Weekend Project!
 
 README-
