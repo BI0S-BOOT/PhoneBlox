@@ -1,4 +1,4 @@
-https://github.com/BI0S-BOOT/PhoneBlox/blob/main/Phoneblox%20logo.png
+![alt text](https://github.com/BI0S-BOOT/PhoneBlox/blob/main/Phoneblox%20logo.png)
 
 A Concept Of A Fully Modular Phone Brought Back To Life In A Open Source (maybe) Weekend Project!
 
