@@ -1,4 +1,4 @@
-# PhoneBlox
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 A Concept Of A Fully Modular Phone Brought Back To Life In A Open Source (maybe) Weekend Project!
 
 README-
